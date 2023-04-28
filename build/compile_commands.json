@@ -1,0 +1,32 @@
+[
+{
+  "directory": "C:/Users/jszpr/Desktop/kodzik/build",
+  "command": "C:/MinGW/bin/g++.exe    -Wall -Wextra -Wpedantic -g -std=gnu++17 -o CMakeFiles/TS-PARSER.dir/tsTransportStream.cpp.obj -c C:/Users/jszpr/Desktop/kodzik/tsTransportStream.cpp",
+  "file": "C:/Users/jszpr/Desktop/kodzik/tsTransportStream.cpp"
+},
+{
+  "directory": "C:/Users/jszpr/Desktop/kodzik/build",
+  "command": "C:/MinGW/bin/g++.exe    -Wall -Wextra -Wpedantic -g -std=gnu++17 -o CMakeFiles/TS-PARSER.dir/TS_parser.cpp.obj -c C:/Users/jszpr/Desktop/kodzik/TS_parser.cpp",
+  "file": "C:/Users/jszpr/Desktop/kodzik/TS_parser.cpp"
+},
+{
+  "directory": "C:/Users/jszpr/Desktop/kodzik/build",
+  "command": "C:/MinGW/bin/g++.exe    -Wall -Wextra -Wpedantic -g -std=gnu++17 -o CMakeFiles/TS-PARSER.dir/xTS_PacketHeader.cpp.obj -c C:/Users/jszpr/Desktop/kodzik/xTS_PacketHeader.cpp",
+  "file": "C:/Users/jszpr/Desktop/kodzik/xTS_PacketHeader.cpp"
+},
+{
+  "directory": "C:/Users/jszpr/Desktop/kodzik/build",
+  "command": "C:/MinGW/bin/g++.exe    -Wall -Wextra -Wpedantic -g -std=gnu++17 -o CMakeFiles/TS-PARSER.dir/xTS_AdaptationField.cpp.obj -c C:/Users/jszpr/Desktop/kodzik/xTS_AdaptationField.cpp",
+  "file": "C:/Users/jszpr/Desktop/kodzik/xTS_AdaptationField.cpp"
+},
+{
+  "directory": "C:/Users/jszpr/Desktop/kodzik/build",
+  "command": "C:/MinGW/bin/g++.exe    -Wall -Wextra -Wpedantic -g -std=gnu++17 -o CMakeFiles/TS-PARSER.dir/xPES_PacketHeader.cpp.obj -c C:/Users/jszpr/Desktop/kodzik/xPES_PacketHeader.cpp",
+  "file": "C:/Users/jszpr/Desktop/kodzik/xPES_PacketHeader.cpp"
+},
+{
+  "directory": "C:/Users/jszpr/Desktop/kodzik/build",
+  "command": "C:/MinGW/bin/g++.exe    -Wall -Wextra -Wpedantic -g -std=gnu++17 -o CMakeFiles/TS-PARSER.dir/xPES_Assembler.cpp.obj -c C:/Users/jszpr/Desktop/kodzik/xPES_Assembler.cpp",
+  "file": "C:/Users/jszpr/Desktop/kodzik/xPES_Assembler.cpp"
+}
+]
